@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-// test for git
+// Class only for set Applepie. For other pies, use PieRecipe
 
 public class ApplePieRecipe {
 
@@ -53,5 +53,4 @@ public class ApplePieRecipe {
             i++;
         }
     }
-
 }
