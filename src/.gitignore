@@ -1,2 +1,6 @@
 /.idea/
 out/
+ /.idea/
+methods.iml
+*.iml
+/out/
